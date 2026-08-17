@@ -28,8 +28,9 @@ As a senior computer science student at Ithaca College. I am deeply passionate w
 + As a programmer and student at Ithaca College I strive to deliver quality and ethically produced products. If anything in my portfolio is found to be contradicting the above statement, do not hesitate to contact me at the provided email address below.
 
 ## Contact Information
-+ Please feel free to reach out for questions or any other reason, my inbox is always open.
+Please feel free to reach out for questions or any other reason, my inbox is always open.
 
-Parker Bowman(she/her)
-B.S. in Computer Science
-pbowman@ithaca.edu
+Parker Bowman(she/her)  
+B.S. in Computer Science  
+Ithaca College H&S '2027  
+pbowman@ithaca.edu  
