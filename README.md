@@ -18,7 +18,7 @@ Software: Arch Linux, Debian, Windows, Unity, Blender, Visual Studio, Visual Stu
 + Troubleshooting - Have successfully resolved a wide range of complex issues in the course of project development, operating system installations, and general use.
 
 ## About Me
-As a senior computer science student at Ithaca College. I am deeply passionate what I do. Outside of education and game development my hobbies include, playing games, hiking, writing, flying drones, electronics, and welding. One of my favorite parts of being in a field as wide scoped and flexible as computer science is that the things I do for fun and for my professional life are often one and the same. Computer science classes are the only classes I have ever actually enjoyed doing the assignments. That is a privilege I am truly grateful for. Beyond hobbies I enjoy spending time with my partner and our growing swarm of cats.
+As a senior computer science student at Ithaca College. I am deeply passionate what I do. Outside of education and game development my hobbies include, playing games, hiking, writing, flying drones, electronics, and welding. One of my favorite parts of being in a field as wide scoped and flexible as computer science is that the things I do for fun and for my professional life are often one and the same. Computer science classes are the only classes where I have ever actually enjoyed doing the assignments. That is a privilege I am truly grateful for. Beyond hobbies I enjoy spending time with my partner and our growing swarm of cats.
 
 ## My AI and Quality Policy
 + I am ethically opposed to the use of AI beyond research applications. None of my work incorporates, or will ever incorporate, any amount of generative AI.
